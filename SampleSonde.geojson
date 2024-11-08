@@ -1,0 +1,4856 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48444,
+          35.274582,
+          3359.17
+        ]
+      },
+      "properties": {
+        "pressure": 680.5,
+        "hum": 14.9,
+        "temp": 6.8,
+        "dew_point": -18.169556822603266,
+        "dT": 1000.0,
+        "distance": 3.6582932361246514,
+        "bearing": 83.01662114770619,
+        "speed": 3.6582932361246514
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48448,
+          35.274578,
+          3337.33
+        ]
+      },
+      "properties": {
+        "pressure": 682.2,
+        "hum": 15.2,
+        "temp": 7.0,
+        "dew_point": -17.771643728276675,
+        "dT": 1000.0,
+        "distance": 3.6582934096159003,
+        "bearing": 83.01662146937554,
+        "speed": 3.6582934096159003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48451,
+          35.274573,
+          3315.59
+        ]
+      },
+      "properties": {
+        "pressure": 684.0,
+        "hum": 15.5,
+        "temp": 7.0,
+        "dew_point": -17.539868612593114,
+        "dT": 1000.0,
+        "distance": 2.779537653439916,
+        "bearing": 78.4616205583851,
+        "speed": 2.779537653439916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4846,
+          35.274559,
+          3267.65
+        ]
+      },
+      "properties": {
+        "pressure": 688.1,
+        "hum": 16.4,
+        "temp": 7.2,
+        "dew_point": -16.7042305989376,
+        "dT": 2217.0,
+        "distance": 8.317085833055978,
+        "bearing": 79.21215914225957,
+        "speed": 3.7515046608281364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48461,
+          35.274556,
+          3258.96
+        ]
+      },
+      "properties": {
+        "pressure": 689.1,
+        "hum": 16.7,
+        "temp": 7.2,
+        "dew_point": -16.487235049045516,
+        "dT": 500.0,
+        "distance": 0.9671397892691765,
+        "bearing": 69.82315267714876,
+        "speed": 1.934279578538353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48464,
+          35.274551,
+          3245.87
+        ]
+      },
+      "properties": {
+        "pressure": 690.0,
+        "hum": 17.0,
+        "temp": 7.2,
+        "dew_point": -16.2736977106758,
+        "dT": 500.0,
+        "distance": 2.7795383780482794,
+        "bearing": 78.46162362258355,
+        "speed": 5.559076756096559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48465,
+          35.274546,
+          3237.17
+        ]
+      },
+      "properties": {
+        "pressure": 691.0,
+        "hum": 17.3,
+        "temp": 7.2,
+        "dew_point": -16.063503510065825,
+        "dT": 500.0,
+        "distance": 1.0645132892399032,
+        "bearing": 58.514643106179335,
+        "speed": 2.1290265784798064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48468,
+          35.27454,
+          3224.11
+        ]
+      },
+      "properties": {
+        "pressure": 691.7,
+        "hum": 17.6,
+        "temp": 7.4,
+        "dew_point": -15.691712476207657,
+        "dT": 500.0,
+        "distance": 2.803897813262554,
+        "bearing": 76.23478922872232,
+        "speed": 5.607795626525108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4847,
+          35.274535,
+          3215.37
+        ]
+      },
+      "properties": {
+        "pressure": 692.7,
+        "hum": 17.9,
+        "temp": 7.3,
+        "dew_point": -15.57014624675817,
+        "dT": 500.0,
+        "distance": 1.8987974291754675,
+        "bearing": 72.97411880573657,
+        "speed": 3.797594858350935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48472,
+          35.274527,
+          3202.26
+        ]
+      },
+      "properties": {
+        "pressure": 693.6,
+        "hum": 18.2,
+        "temp": 7.3,
+        "dew_point": -15.36920071912812,
+        "dT": 500.0,
+        "distance": 2.0217913746785676,
+        "bearing": 63.897021682472655,
+        "speed": 4.043582749357135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48474,
+          35.274523,
+          3193.61
+        ]
+      },
+      "properties": {
+        "pressure": 694.6,
+        "hum": 18.6,
+        "temp": 7.4,
+        "dew_point": -15.022931215596007,
+        "dT": 500.0,
+        "distance": 1.8692656014168842,
+        "bearing": 76.23479506394875,
+        "speed": 3.7385312028337685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48477,
+          35.274515,
+          3180.74
+        ]
+      },
+      "properties": {
+        "pressure": 695.6,
+        "hum": 18.8,
+        "temp": 7.4,
+        "dew_point": -14.893043617864057,
+        "dT": 500.0,
+        "distance": 2.864969122096441,
+        "bearing": 71.91090995747152,
+        "speed": 5.729938244192882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48479,
+          35.27451,
+          3172.01
+        ]
+      },
+      "properties": {
+        "pressure": 695.7,
+        "hum": 18.8,
+        "temp": 7.5,
+        "dew_point": -14.810057292884549,
+        "dT": 500.0,
+        "distance": 1.8987979649926694,
+        "bearing": 72.97412375682552,
+        "speed": 3.797595929985339
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48481,
+          35.274505,
+          3163.28
+        ]
+      },
+      "properties": {
+        "pressure": 695.7,
+        "hum": 18.8,
+        "temp": 7.6,
+        "dew_point": -14.72707686675884,
+        "dT": 500.0,
+        "distance": 1.8987980723631788,
+        "bearing": 72.97412471643082,
+        "speed": 3.7975961447263575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48484,
+          35.274499,
+          3150.21
+        ]
+      },
+      "properties": {
+        "pressure": 695.7,
+        "hum": 18.8,
+        "temp": 7.6,
+        "dew_point": -14.72707686675884,
+        "dT": 500.0,
+        "distance": 2.803899152197311,
+        "bearing": 76.23479593142577,
+        "speed": 5.607798304394622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48487,
+          35.274492,
+          3137.08
+        ]
+      },
+      "properties": {
+        "pressure": 695.7,
+        "hum": 18.8,
+        "temp": 7.8,
+        "dew_point": -14.561133708553147,
+        "dT": 500.0,
+        "distance": 2.8324172910133556,
+        "bearing": 74.04955438277574,
+        "speed": 5.664834582026711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48489,
+          35.274487,
+          3128.38
+        ]
+      },
+      "properties": {
+        "pressure": 695.7,
+        "hum": 18.8,
+        "temp": 7.8,
+        "dew_point": -14.561133708553147,
+        "dT": 500.0,
+        "distance": 1.89879845573563,
+        "bearing": 72.97412828121037,
+        "speed": 3.79759691147126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48491,
+          35.274483,
+          3119.67
+        ]
+      },
+      "properties": {
+        "pressure": 695.7,
+        "hum": 18.8,
+        "temp": 7.9,
+        "dew_point": -14.478170975215564,
+        "dT": 500.0,
+        "distance": 1.869266472436697,
+        "bearing": 76.23480157157798,
+        "speed": 3.738532944873394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48494,
+          35.274476,
+          3106.59
+        ]
+      },
+      "properties": {
+        "pressure": 695.7,
+        "hum": 18.8,
+        "temp": 7.9,
+        "dew_point": -14.478170975215564,
+        "dT": 500.0,
+        "distance": 2.8324178060423026,
+        "bearing": 74.04955736042683,
+        "speed": 5.664835612084605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48496,
+          35.274472,
+          3097.9
+        ]
+      },
+      "properties": {
+        "pressure": 703.1,
+        "hum": 19.9,
+        "temp": 8.0,
+        "dew_point": -13.699125415327105,
+        "dT": 500.0,
+        "distance": 1.8692667139958918,
+        "bearing": 76.2348034182931,
+        "speed": 3.7385334279917837
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.485,
+          35.274465,
+          3084.83
+        ]
+      },
+      "properties": {
+        "pressure": 704.0,
+        "hum": 20.0,
+        "temp": 8.1,
+        "dew_point": -13.554059181095335,
+        "dT": 500.0,
+        "distance": 3.7136463562964313,
+        "bearing": 77.90132531379982,
+        "speed": 7.4272927125928625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48502,
+          35.27446,
+          3076.15
+        ]
+      },
+      "properties": {
+        "pressure": 704.9,
+        "hum": 20.1,
+        "temp": 8.0,
+        "dew_point": -13.576270581421818,
+        "dT": 500.0,
+        "distance": 1.8987990366261251,
+        "bearing": 72.97413365898592,
+        "speed": 3.7975980732522503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48505,
+          35.274454,
+          3063.13
+        ]
+      },
+      "properties": {
+        "pressure": 705.8,
+        "hum": 20.1,
+        "temp": 8.2,
+        "dew_point": -13.409183642673748,
+        "dT": 500.0,
+        "distance": 2.8039006240018147,
+        "bearing": 76.23480329926724,
+        "speed": 5.6078012480036294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48508,
+          35.274447,
+          3050.11
+        ]
+      },
+      "properties": {
+        "pressure": 706.6,
+        "hum": 20.2,
+        "temp": 8.3,
+        "dew_point": -13.264496732364224,
+        "dT": 500.0,
+        "distance": 2.8324187435571333,
+        "bearing": 74.04956278068641,
+        "speed": 5.664837487114267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48511,
+          35.274442,
+          3041.42
+        ]
+      },
+      "properties": {
+        "pressure": 707.6,
+        "hum": 20.3,
+        "temp": 8.3,
+        "dew_point": -13.20361437187884,
+        "dT": 500.0,
+        "distance": 2.7795419689901295,
+        "bearing": 78.46163871203862,
+        "speed": 5.559083937980259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48513,
+          35.274438,
+          3032.74
+        ]
+      },
+      "properties": {
+        "pressure": 708.5,
+        "hum": 20.3,
+        "temp": 8.4,
+        "dew_point": -13.119996412996162,
+        "dT": 500.0,
+        "distance": 1.8692674519753434,
+        "bearing": 76.23480895976758,
+        "speed": 3.7385349039506868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48516,
+          35.274432,
+          3019.82
+        ]
+      },
+      "properties": {
+        "pressure": 709.5,
+        "hum": 20.3,
+        "temp": 8.4,
+        "dew_point": -13.119996412996162,
+        "dT": 500.0,
+        "distance": 2.8039013403781157,
+        "bearing": 76.23480686353798,
+        "speed": 5.607802680756231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48518,
+          35.274428,
+          3011.2
+        ]
+      },
+      "properties": {
+        "pressure": 710.5,
+        "hum": 20.4,
+        "temp": 8.6,
+        "dew_point": -12.892029957070651,
+        "dT": 500.0,
+        "distance": 1.8692676696878558,
+        "bearing": 76.23481058403718,
+        "speed": 3.7385353393757117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48522,
+          35.274422,
+          2998.3
+        ]
+      },
+      "properties": {
+        "pressure": 711.4,
+        "hum": 20.4,
+        "temp": 8.7,
+        "dew_point": -12.808384914910079,
+        "dT": 500.0,
+        "distance": 3.6919435782157213,
+        "bearing": 79.5888951185292,
+        "speed": 7.3838871564314426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48524,
+          35.274418,
+          2989.67
+        ]
+      },
+      "properties": {
+        "pressure": 712.3,
+        "hum": 20.5,
+        "temp": 8.7,
+        "dew_point": -12.7478585280634,
+        "dT": 500.0,
+        "distance": 1.869267887736921,
+        "bearing": 76.23481216619041,
+        "speed": 3.738535775473842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48528,
+          35.274413,
+          2976.69
+        ]
+      },
+      "properties": {
+        "pressure": 713.4,
+        "hum": 20.5,
+        "temp": 8.8,
+        "dew_point": -12.6641751731672,
+        "dT": 500.0,
+        "distance": 3.67347833100637,
+        "bearing": 81.294918927906,
+        "speed": 7.34695666201274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4853,
+          35.27441,
+          2967.99
+        ]
+      },
+      "properties": {
+        "pressure": 714.1,
+        "hum": 20.5,
+        "temp": 8.8,
+        "dew_point": -12.6641751731672,
+        "dT": 500.0,
+        "distance": 1.8459720844569885,
+        "bearing": 79.5889025569387,
+        "speed": 3.691944168913977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48533,
+          35.274404,
+          2954.98
+        ]
+      },
+      "properties": {
+        "pressure": 715.1,
+        "hum": 20.6,
+        "temp": 8.9,
+        "dew_point": -12.52014639423551,
+        "dT": 500.0,
+        "distance": 2.8039022570138403,
+        "bearing": 76.23481145220256,
+        "speed": 5.607804514027681
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48536,
+          35.274401,
+          2946.32
+        ]
+      },
+      "properties": {
+        "pressure": 716.0,
+        "hum": 20.6,
+        "temp": 9.0,
+        "dew_point": -12.436430530094825,
+        "dT": 500.0,
+        "distance": 2.7437259814790895,
+        "bearing": 83.01663951374184,
+        "speed": 5.487451962958179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48539,
+          35.274396,
+          2933.34
+        ]
+      },
+      "properties": {
+        "pressure": 717.0,
+        "hum": 20.6,
+        "temp": 9.1,
+        "dew_point": -12.352720315800447,
+        "dT": 500.0,
+        "distance": 2.7795434842294497,
+        "bearing": 78.46164511765619,
+        "speed": 5.5590869684588995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48543,
+          35.274391,
+          2920.36
+        ]
+      },
+      "properties": {
+        "pressure": 718.0,
+        "hum": 20.7,
+        "temp": 9.2,
+        "dew_point": -12.208794519267652,
+        "dT": 500.0,
+        "distance": 3.6734793060128745,
+        "bearing": 81.29492123426655,
+        "speed": 7.346958612025749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48545,
+          35.274388,
+          2911.73
+        ]
+      },
+      "properties": {
+        "pressure": 718.9,
+        "hum": 20.7,
+        "temp": 9.3,
+        "dew_point": -12.125051905740605,
+        "dT": 500.0,
+        "distance": 1.845972571740429,
+        "bearing": 79.58890535741205,
+        "speed": 3.691945143480858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48547,
+          35.274384,
+          2903.12
+        ]
+      },
+      "properties": {
+        "pressure": 719.9,
+        "hum": 20.7,
+        "temp": 9.3,
+        "dew_point": -12.125051905740605,
+        "dT": 500.0,
+        "distance": 1.8692686300340733,
+        "bearing": 76.23481778345854,
+        "speed": 3.7385372600681466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48551,
+          35.274379,
+          2890.14
+        ]
+      },
+      "properties": {
+        "pressure": 720.9,
+        "hum": 20.7,
+        "temp": 9.4,
+        "dew_point": -12.04131492744269,
+        "dT": 500.0,
+        "distance": 3.6734798353857254,
+        "bearing": 81.29492251508202,
+        "speed": 7.346959670771451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48553,
+          35.274375,
+          2881.4
+        ]
+      },
+      "properties": {
+        "pressure": 721.8,
+        "hum": 20.8,
+        "temp": 9.5,
+        "dew_point": -11.897490764304646,
+        "dT": 500.0,
+        "distance": 1.8692688238999033,
+        "bearing": 76.23481921686937,
+        "speed": 3.7385376477998067
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48556,
+          35.274369,
+          2868.17
+        ]
+      },
+      "properties": {
+        "pressure": 722.6,
+        "hum": 20.8,
+        "temp": 9.6,
+        "dew_point": -11.81372149558036,
+        "dT": 501.0,
+        "distance": 2.8039033998349794,
+        "bearing": 76.23481719504389,
+        "speed": 5.59661357252491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48559,
+          35.274366,
+          2859.08
+        ]
+      },
+      "properties": {
+        "pressure": 723.7,
+        "hum": 20.8,
+        "temp": 9.7,
+        "dew_point": -11.729957847525899,
+        "dT": 500.0,
+        "distance": 2.7437271495368636,
+        "bearing": 83.01664249417257,
+        "speed": 5.487454299073727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48562,
+          35.274361,
+          2845.3
+        ]
+      },
+      "properties": {
+        "pressure": 724.7,
+        "hum": 20.8,
+        "temp": 9.7,
+        "dew_point": -11.729957847525899,
+        "dT": 500.0,
+        "distance": 2.779544637376934,
+        "bearing": 78.46164995546138,
+        "speed": 5.559089274753868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48564,
+          35.274357,
+          2836.31
+        ]
+      },
+      "properties": {
+        "pressure": 725.6,
+        "hum": 20.8,
+        "temp": 9.8,
+        "dew_point": -11.646199819575584,
+        "dT": 500.0,
+        "distance": 1.86926921544519,
+        "bearing": 76.23482219108388,
+        "speed": 3.73853843089038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48567,
+          35.274353,
+          2823.1
+        ]
+      },
+      "properties": {
+        "pressure": 726.6,
+        "hum": 20.9,
+        "temp": 9.9,
+        "dew_point": -11.502438157056838,
+        "dT": 500.0,
+        "distance": 2.7594548633054994,
+        "bearing": 80.72437043591736,
+        "speed": 5.518909726610999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48569,
+          35.274349,
+          2814.37
+        ]
+      },
+      "properties": {
+        "pressure": 727.6,
+        "hum": 20.9,
+        "temp": 9.9,
+        "dew_point": -11.502438157056838,
+        "dT": 500.0,
+        "distance": 1.8692693896148658,
+        "bearing": 76.23482350944658,
+        "speed": 3.7385387792297315
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48573,
+          35.274344,
+          2801.4
+        ]
+      },
+      "properties": {
+        "pressure": 728.5,
+        "hum": 21.0,
+        "temp": 10.0,
+        "dew_point": -11.358850958538305,
+        "dT": 500.0,
+        "distance": 3.6734813887508637,
+        "bearing": 81.29492621353029,
+        "speed": 7.346962777501727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48575,
+          35.27434,
+          2792.78
+        ]
+      },
+      "properties": {
+        "pressure": 729.6,
+        "hum": 21.0,
+        "temp": 10.0,
+        "dew_point": -11.358850958538305,
+        "dT": 500.0,
+        "distance": 1.8692695855557104,
+        "bearing": 76.23482498075896,
+        "speed": 3.738539171111421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48578,
+          35.274334,
+          2779.88
+        ]
+      },
+      "properties": {
+        "pressure": 730.6,
+        "hum": 21.1,
+        "temp": 10.1,
+        "dew_point": -11.215436398200465,
+        "dT": 500.0,
+        "distance": 2.803904540579978,
+        "bearing": 76.23482289856776,
+        "speed": 5.607809081159956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4858,
+          35.27433,
+          2771.29
+        ]
+      },
+      "properties": {
+        "pressure": 731.3,
+        "hum": 21.0,
+        "temp": 10.1,
+        "dew_point": -11.275023065200129,
+        "dT": 500.0,
+        "distance": 1.8692698036043163,
+        "bearing": 76.23482656290531,
+        "speed": 3.7385396072086325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48584,
+          35.274323,
+          2758.28
+        ]
+      },
+      "properties": {
+        "pressure": 732.2,
+        "hum": 21.1,
+        "temp": 10.2,
+        "dew_point": -11.131570982457216,
+        "dT": 500.0,
+        "distance": 3.7136525827242353,
+        "bearing": 77.90134593345306,
+        "speed": 7.4273051654484705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48586,
+          35.274318,
+          2749.6
+        ]
+      },
+      "properties": {
+        "pressure": 733.3,
+        "hum": 21.0,
+        "temp": 10.3,
+        "dew_point": -11.107384054811675,
+        "dT": 500.0,
+        "distance": 1.8988020800582381,
+        "bearing": 72.97416178099382,
+        "speed": 3.7976041601164763
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48589,
+          35.274312,
+          2736.68
+        ]
+      },
+      "properties": {
+        "pressure": 734.3,
+        "hum": 21.0,
+        "temp": 10.3,
+        "dew_point": -11.107384054811675,
+        "dT": 500.0,
+        "distance": 2.80390525902939,
+        "bearing": 76.23482649510646,
+        "speed": 5.60781051805878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48592,
+          35.274308,
+          2728.09
+        ]
+      },
+      "properties": {
+        "pressure": 735.1,
+        "hum": 21.0,
+        "temp": 10.3,
+        "dew_point": -11.107384054811675,
+        "dT": 500.0,
+        "distance": 2.7594563565328243,
+        "bearing": 80.72437550680945,
+        "speed": 5.518912713065649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48595,
+          35.274301,
+          2715.23
+        ]
+      },
+      "properties": {
+        "pressure": 736.2,
+        "hum": 21.1,
+        "temp": 10.4,
+        "dew_point": -10.963856887426521,
+        "dT": 500.0,
+        "distance": 2.8324234656704754,
+        "bearing": 74.04959006785919,
+        "speed": 5.664846931340951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48598,
+          35.274297,
+          2706.66
+        ]
+      },
+      "properties": {
+        "pressure": 737.2,
+        "hum": 21.1,
+        "temp": 10.4,
+        "dew_point": -10.963856887426521,
+        "dT": 500.0,
+        "distance": 2.7594567215436996,
+        "bearing": 80.72437674458763,
+        "speed": 5.518913443087399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48601,
+          35.27429,
+          2693.84
+        ]
+      },
+      "properties": {
+        "pressure": 738.1,
+        "hum": 21.2,
+        "temp": 10.5,
+        "dew_point": -10.820500992932567,
+        "dT": 500.0,
+        "distance": 2.8324238192516273,
+        "bearing": 74.04959210408481,
+        "speed": 5.664847638503255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48604,
+          35.274286,
+          2685.28
+        ]
+      },
+      "properties": {
+        "pressure": 739.1,
+        "hum": 21.3,
+        "temp": 10.5,
+        "dew_point": -10.761243515332,
+        "dT": 500.0,
+        "distance": 2.7594570888341,
+        "bearing": 80.7243779828483,
+        "speed": 5.5189141776682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48608,
+          35.274279,
+          2672.46
+        ]
+      },
+      "properties": {
+        "pressure": 739.9,
+        "hum": 21.4,
+        "temp": 10.6,
+        "dew_point": -10.618261973537946,
+        "dT": 500.0,
+        "distance": 3.7136545114276176,
+        "bearing": 77.90135231203243,
+        "speed": 7.427309022855235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4861,
+          35.274274,
+          2663.88
+        ]
+      },
+      "properties": {
+        "pressure": 740.8,
+        "hum": 21.5,
+        "temp": 10.6,
+        "dew_point": -10.559454845849132,
+        "dT": 500.0,
+        "distance": 1.8988030208828777,
+        "bearing": 72.97417046420537,
+        "speed": 3.7976060417657553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48614,
+          35.274267,
+          2651.1
+        ]
+      },
+      "properties": {
+        "pressure": 741.9,
+        "hum": 21.6,
+        "temp": 10.7,
+        "dew_point": -10.416840164869976,
+        "dT": 500.0,
+        "distance": 3.713655037437275,
+        "bearing": 77.9013540463074,
+        "speed": 7.42731007487455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48617,
+          35.274262,
+          2642.55
+        ]
+      },
+      "properties": {
+        "pressure": 742.8,
+        "hum": 21.7,
+        "temp": 10.8,
+        "dew_point": -10.274387831256188,
+        "dT": 500.0,
+        "distance": 2.7795479009946336,
+        "bearing": 78.4616636894263,
+        "speed": 5.559095801989267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48622,
+          35.274254,
+          2629.78
+        ]
+      },
+      "properties": {
+        "pressure": 743.8,
+        "hum": 21.8,
+        "temp": 10.8,
+        "dew_point": -10.216220280588775,
+        "dT": 500.0,
+        "distance": 4.625308897543725,
+        "bearing": 78.91152521748182,
+        "speed": 9.25061779508745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48625,
+          35.274249,
+          2621.21
+        ]
+      },
+      "properties": {
+        "pressure": 744.8,
+        "hum": 21.9,
+        "temp": 10.9,
+        "dew_point": -10.074124096934334,
+        "dT": 500.0,
+        "distance": 2.779548327131067,
+        "bearing": 78.46166546066854,
+        "speed": 5.559096654262134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48629,
+          35.274241,
+          2608.36
+        ]
+      },
+      "properties": {
+        "pressure": 745.7,
+        "hum": 21.9,
+        "temp": 10.9,
+        "dew_point": -10.074124096934334,
+        "dT": 500.0,
+        "distance": 3.738543394719803,
+        "bearing": 76.23483506780906,
+        "speed": 7.477086789439606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48632,
+          35.274235,
+          2599.8
+        ]
+      },
+      "properties": {
+        "pressure": 746.7,
+        "hum": 21.9,
+        "temp": 10.9,
+        "dew_point": -10.074124096934334,
+        "dT": 500.0,
+        "distance": 2.8039077737676497,
+        "bearing": 76.23483906190427,
+        "speed": 5.607815547535299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48637,
+          35.274227,
+          2586.9
+        ]
+      },
+      "properties": {
+        "pressure": 747.8,
+        "hum": 21.9,
+        "temp": 11.0,
+        "dew_point": -9.989963604605366,
+        "dT": 500.0,
+        "distance": 4.625310382169565,
+        "bearing": 78.91152884358263,
+        "speed": 9.25062076433913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4864,
+          35.274221,
+          2578.34
+        ]
+      },
+      "properties": {
+        "pressure": 748.6,
+        "hum": 21.9,
+        "temp": 11.2,
+        "dew_point": -9.821659042427594,
+        "dT": 500.0,
+        "distance": 2.803908233205176,
+        "bearing": 76.23484136885037,
+        "speed": 5.607816466410352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48644,
+          35.274211,
+          2565.61
+        ]
+      },
+      "properties": {
+        "pressure": 749.4,
+        "hum": 21.9,
+        "temp": 11.2,
+        "dew_point": -9.821659042427594,
+        "dT": 500.0,
+        "distance": 3.797608639313995,
+        "bearing": 72.97417671087146,
+        "speed": 7.59521727862799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48647,
+          35.274204,
+          2557.11
+        ]
+      },
+      "properties": {
+        "pressure": 750.5,
+        "hum": 21.9,
+        "temp": 11.2,
+        "dew_point": -9.821659042427594,
+        "dT": 500.0,
+        "distance": 2.832426599648239,
+        "bearing": 74.04960816403695,
+        "speed": 5.664853199296478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48652,
+          35.274193,
+          2544.38
+        ]
+      },
+      "properties": {
+        "pressure": 751.5,
+        "hum": 22.1,
+        "temp": 11.3,
+        "dew_point": -9.621941744327842,
+        "dT": 500.0,
+        "distance": 4.700880601844329,
+        "bearing": 74.9183706178394,
+        "speed": 9.401761203688658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48655,
+          35.274186,
+          2535.84
+        ]
+      },
+      "properties": {
+        "pressure": 752.4,
+        "hum": 22.2,
+        "temp": 11.3,
+        "dew_point": -9.564504197446661,
+        "dT": 500.0,
+        "distance": 2.8324271811615622,
+        "bearing": 74.0496115489293,
+        "speed": 5.6648543623231244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4866,
+          35.274174,
+          2523.06
+        ]
+      },
+      "properties": {
+        "pressure": 753.4,
+        "hum": 22.3,
+        "temp": 11.5,
+        "dew_point": -9.338692611221997,
+        "dT": 500.0,
+        "distance": 4.731032341086883,
+        "bearing": 73.61800515611355,
+        "speed": 9.462064682173766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48663,
+          35.274166,
+          2514.53
+        ]
+      },
+      "properties": {
+        "pressure": 754.4,
+        "hum": 22.3,
+        "temp": 11.5,
+        "dew_point": -9.338692611221997,
+        "dT": 500.0,
+        "distance": 2.864980278571724,
+        "bearing": 71.91098284225745,
+        "speed": 5.729960557143448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48667,
+          35.274153,
+          2501.78
+        ]
+      },
+      "properties": {
+        "pressure": 755.3,
+        "hum": 22.2,
+        "temp": 11.6,
+        "dew_point": -9.311730132358809,
+        "dT": 500.0,
+        "distance": 3.9083228223365714,
+        "bearing": 68.29297715904204,
+        "speed": 7.816645644673143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4867,
+          35.274145,
+          2493.24
+        ]
+      },
+      "properties": {
+        "pressure": 756.3,
+        "hum": 22.2,
+        "temp": 11.6,
+        "dew_point": -9.311730132358809,
+        "dT": 500.0,
+        "distance": 2.8649809475475605,
+        "bearing": 71.91098719878005,
+        "speed": 5.729961895095121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48675,
+          35.274132,
+          2480.48
+        ]
+      },
+      "properties": {
+        "pressure": 757.4,
+        "hum": 22.1,
+        "temp": 11.7,
+        "dew_point": -9.28508644775202,
+        "dT": 500.0,
+        "distance": 4.763590653642361,
+        "bearing": 72.33476555016125,
+        "speed": 9.527181307284723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48678,
+          35.274123,
+          2471.94
+        ]
+      },
+      "properties": {
+        "pressure": 758.2,
+        "hum": 22.1,
+        "temp": 11.9,
+        "dew_point": -9.116691477279954,
+        "dT": 500.0,
+        "distance": 2.9014329353440003,
+        "bearing": 69.8232453622918,
+        "speed": 5.8028658706880005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48683,
+          35.274109,
+          2459.13
+        ]
+      },
+      "properties": {
+        "pressure": 759.0,
+        "hum": 22.0,
+        "temp": 11.9,
+        "dew_point": -9.17461096596536,
+        "dT": 500.0,
+        "distance": 4.79850432748525,
+        "bearing": 71.06956871772502,
+        "speed": 9.5970086549705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48686,
+          35.274101,
+          2450.56
+        ]
+      },
+      "properties": {
+        "pressure": 760.1,
+        "hum": 21.9,
+        "temp": 12.0,
+        "dew_point": -9.148659681805176,
+        "dT": 500.0,
+        "distance": 2.864982353810587,
+        "bearing": 71.91099639166634,
+        "speed": 5.729964707621174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4869,
+          35.274087,
+          2437.75
+        ]
+      },
+      "properties": {
+        "pressure": 761.1,
+        "hum": 21.8,
+        "temp": 12.0,
+        "dew_point": -9.207093222910798,
+        "dT": 500.0,
+        "distance": 3.9508030856673093,
+        "bearing": 66.79459123170085,
+        "speed": 7.901606171334619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48693,
+          35.274078,
+          2429.2
+        ]
+      },
+      "properties": {
+        "pressure": 762.0,
+        "hum": 21.9,
+        "temp": 12.0,
+        "dew_point": -9.148659681805176,
+        "dT": 500.0,
+        "distance": 2.9014343533300444,
+        "bearing": 69.82325565195447,
+        "speed": 5.802868706660089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48698,
+          35.274064,
+          2416.4
+        ]
+      },
+      "properties": {
+        "pressure": 763.0,
+        "hum": 22.0,
+        "temp": 12.1,
+        "dew_point": -9.006321173254253,
+        "dT": 500.0,
+        "distance": 4.7985067149512215,
+        "bearing": 71.06957849482143,
+        "speed": 9.597013429902443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.487,
+          35.274055,
+          2407.88
+        ]
+      },
+      "properties": {
+        "pressure": 764.1,
+        "hum": 22.1,
+        "temp": 12.2,
+        "dew_point": -8.864139856955235,
+        "dT": 500.0,
+        "distance": 2.073130972911993,
+        "bearing": 61.136397238979896,
+        "speed": 4.146261945823986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48704,
+          35.274041,
+          2394.98
+        ]
+      },
+      "properties": {
+        "pressure": 765.0,
+        "hum": 22.2,
+        "temp": 12.2,
+        "dew_point": -8.806328711502756,
+        "dT": 500.0,
+        "distance": 3.9508049809990853,
+        "bearing": 66.79460302029287,
+        "speed": 7.901609961998171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48707,
+          35.27403,
+          2386.42
+        ]
+      },
+      "properties": {
+        "pressure": 766.1,
+        "hum": 22.3,
+        "temp": 12.3,
+        "dew_point": -8.664493059285643,
+        "dT": 500.0,
+        "distance": 2.9854484412301843,
+        "bearing": 65.81387513934249,
+        "speed": 5.9708968824603685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48711,
+          35.274014,
+          2373.61
+        ]
+      },
+      "properties": {
+        "pressure": 766.8,
+        "hum": 22.4,
+        "temp": 12.5,
+        "dew_point": -8.4385233694423,
+        "dT": 500.0,
+        "distance": 4.043603238339208,
+        "bearing": 63.89715816007089,
+        "speed": 8.087206476678416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48714,
+          35.274003,
+          2365.09
+        ]
+      },
+      "properties": {
+        "pressure": 767.9,
+        "hum": 22.5,
+        "temp": 12.5,
+        "dew_point": -8.381277397406423,
+        "dT": 500.0,
+        "distance": 2.9854492693425962,
+        "bearing": 65.81388227725455,
+        "speed": 5.9708985386851925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48718,
+          35.273987,
+          2352.12
+        ]
+      },
+      "properties": {
+        "pressure": 768.9,
+        "hum": 22.6,
+        "temp": 12.5,
+        "dew_point": -8.324257529826527,
+        "dT": 500.0,
+        "distance": 4.043604325595835,
+        "bearing": 63.89716570161289,
+        "speed": 8.08720865119167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48725,
+          35.273958,
+          2330.25
+        ]
+      },
+      "properties": {
+        "pressure": 771.0,
+        "hum": 22.8,
+        "temp": 12.7,
+        "dew_point": -8.042004543240644,
+        "dT": 1000.0,
+        "distance": 7.125932716345702,
+        "bearing": 63.09426732604953,
+        "speed": 7.125932716345702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48727,
+          35.273946,
+          2321.67
+        ]
+      },
+      "properties": {
+        "pressure": 772.0,
+        "hum": 22.8,
+        "temp": 12.8,
+        "dew_point": -7.95757057112581,
+        "dT": 500.0,
+        "distance": 2.253182730376122,
+        "bearing": 53.6865755210564,
+        "speed": 4.506365460752244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48732,
+          35.273928,
+          2308.86
+        ]
+      },
+      "properties": {
+        "pressure": 773.0,
+        "hum": 22.9,
+        "temp": 12.8,
+        "dew_point": -7.901096087814847,
+        "dT": 500.0,
+        "distance": 4.960682086190467,
+        "bearing": 66.20441939067933,
+        "speed": 9.921364172380933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48734,
+          35.273915,
+          2300.32
+        ]
+      },
+      "properties": {
+        "pressure": 773.9,
+        "hum": 23.0,
+        "temp": 12.9,
+        "dew_point": -7.760331094488414,
+        "dT": 500.0,
+        "distance": 2.3207633871723328,
+        "bearing": 51.47396801395536,
+        "speed": 4.6415267743446655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48739,
+          35.273896,
+          2287.59
+        ]
+      },
+      "properties": {
+        "pressure": 774.9,
+        "hum": 23.0,
+        "temp": 12.9,
+        "dew_point": -7.760331094488414,
+        "dT": 500.0,
+        "distance": 5.006581897435374,
+        "bearing": 65.03999870039343,
+        "speed": 10.013163794870747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48741,
+          35.273882,
+          2279.1
+        ]
+      },
+      "properties": {
+        "pressure": 775.8,
+        "hum": 23.1,
+        "temp": 13.1,
+        "dew_point": -7.535168894554513,
+        "dT": 500.0,
+        "distance": 2.39160652322155,
+        "bearing": 49.389482913662675,
+        "speed": 4.7832130464431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48745,
+          35.273862,
+          2266.35
+        ]
+      },
+      "properties": {
+        "pressure": 776.7,
+        "hum": 23.2,
+        "temp": 13.1,
+        "dew_point": -7.479225915289654,
+        "dT": 500.0,
+        "distance": 4.258079011616605,
+        "bearing": 58.514847572470615,
+        "speed": 8.51615802323321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48748,
+          35.273848,
+          2257.82
+        ]
+      },
+      "properties": {
+        "pressure": 777.8,
+        "hum": 23.2,
+        "temp": 13.1,
+        "dew_point": -7.479225915289654,
+        "dT": 500.0,
+        "distance": 3.136918684122692,
+        "bearing": 60.24708488274621,
+        "speed": 6.273837368245384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48752,
+          35.273827,
+          2245.15
+        ]
+      },
+      "properties": {
+        "pressure": 778.8,
+        "hum": 23.3,
+        "temp": 13.2,
+        "dew_point": -7.338882984971364,
+        "dT": 500.0,
+        "distance": 4.317196416677886,
+        "bearing": 57.25629371831781,
+        "speed": 8.634392833355772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48755,
+          35.273813,
+          2236.65
+        ]
+      },
+      "properties": {
+        "pressure": 779.7,
+        "hum": 23.4,
+        "temp": 13.3,
+        "dew_point": -7.198678027247495,
+        "dT": 500.0,
+        "distance": 3.1369197037597076,
+        "bearing": 60.24709552268905,
+        "speed": 6.273839407519415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48759,
+          35.273791,
+          2223.91
+        ]
+      },
+      "properties": {
+        "pressure": 780.8,
+        "hum": 23.4,
+        "temp": 13.4,
+        "dew_point": -7.114034550595784,
+        "dT": 500.0,
+        "distance": 4.3783400800609735,
+        "bearing": 56.03231455858139,
+        "speed": 8.756680160121947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48762,
+          35.273776,
+          2215.46
+        ]
+      },
+      "properties": {
+        "pressure": 781.8,
+        "hum": 23.4,
+        "temp": 13.4,
+        "dew_point": -7.114034550595784,
+        "dT": 500.0,
+        "distance": 3.193561796959736,
+        "bearing": 58.51487833966644,
+        "speed": 6.387123593919472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48766,
+          35.273754,
+          2202.87
+        ]
+      },
+      "properties": {
+        "pressure": 782.7,
+        "hum": 23.5,
+        "temp": 13.5,
+        "dew_point": -6.973931738513396,
+        "dT": 500.0,
+        "distance": 4.378341456487348,
+        "bearing": 56.03232666700825,
+        "speed": 8.756682912974696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48769,
+          35.273739,
+          2194.5
+        ]
+      },
+      "properties": {
+        "pressure": 783.8,
+        "hum": 23.4,
+        "temp": 13.5,
+        "dew_point": -7.029396354619657,
+        "dT": 500.0,
+        "distance": 3.193562857455305,
+        "bearing": 58.51489001795136,
+        "speed": 6.387125714910609
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48776,
+          35.273701,
+          2173.46
+        ]
+      },
+      "properties": {
+        "pressure": 785.6,
+        "hum": 23.4,
+        "temp": 13.7,
+        "dew_point": -6.860135802717605,
+        "dT": 1000.0,
+        "distance": 7.63117610649558,
+        "bearing": 56.378533741766944,
+        "speed": 7.63117610649558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48781,
+          35.273678,
+          2160.8
+        ]
+      },
+      "properties": {
+        "pressure": 786.6,
+        "hum": 23.5,
+        "temp": 13.6,
+        "dew_point": -6.889259031914878,
+        "dT": 500.0,
+        "distance": 5.209911375892691,
+        "bearing": 60.60101733136946,
+        "speed": 10.419822751785382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48784,
+          35.273662,
+          2152.34
+        ]
+      },
+      "properties": {
+        "pressure": 787.6,
+        "hum": 23.6,
+        "temp": 13.7,
+        "dew_point": -6.749257275523591,
+        "dT": 500.0,
+        "distance": 3.253021888747486,
+        "bearing": 56.84452666178589,
+        "speed": 6.506043777494972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48788,
+          35.273639,
+          2139.69
+        ]
+      },
+      "properties": {
+        "pressure": 788.6,
+        "hum": 23.6,
+        "temp": 13.7,
+        "dew_point": -6.749257275523591,
+        "dT": 500.0,
+        "distance": 4.441430536755085,
+        "bearing": 54.84261455792836,
+        "speed": 8.88286107351017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48791,
+          35.273623,
+          2131.3
+        ]
+      },
+      "properties": {
+        "pressure": 789.5,
+        "hum": 23.7,
+        "temp": 13.7,
+        "dew_point": -6.694131166111481,
+        "dT": 501.0,
+        "distance": 3.25302298496895,
+        "bearing": 56.84453926540067,
+        "speed": 6.493059850237425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48796,
+          35.273599,
+          2118.71
+        ]
+      },
+      "properties": {
+        "pressure": 790.6,
+        "hum": 23.7,
+        "temp": 13.8,
+        "dew_point": -6.609389788376603,
+        "dT": 499.0,
+        "distance": 5.265390690796186,
+        "bearing": 59.54682224974238,
+        "speed": 10.551885151896164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48799,
+          35.273583,
+          2110.32
+        ]
+      },
+      "properties": {
+        "pressure": 791.7,
+        "hum": 23.7,
+        "temp": 13.9,
+        "dew_point": -6.524653654087461,
+        "dT": 500.0,
+        "distance": 3.2530241124312576,
+        "bearing": 56.844552247798276,
+        "speed": 6.506048224862515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48803,
+          35.273558,
+          2097.78
+        ]
+      },
+      "properties": {
+        "pressure": 792.6,
+        "hum": 23.7,
+        "temp": 14.0,
+        "dew_point": -6.4399227627574,
+        "dT": 500.0,
+        "distance": 4.573106729875071,
+        "bearing": 52.56404321859344,
+        "speed": 9.146213459750141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48806,
+          35.273541,
+          2089.45
+        ]
+      },
+      "properties": {
+        "pressure": 793.4,
+        "hum": 23.8,
+        "temp": 14.0,
+        "dew_point": -6.384884980818886,
+        "dT": 500.0,
+        "distance": 3.3151464170773144,
+        "bearing": 55.235454540813066,
+        "speed": 6.630292834154629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4881,
+          35.273516,
+          2076.99
+        ]
+      },
+      "properties": {
+        "pressure": 794.4,
+        "hum": 23.8,
+        "temp": 14.1,
+        "dew_point": -6.300119902646535,
+        "dT": 500.0,
+        "distance": 4.573108226732566,
+        "bearing": 52.564057579210214,
+        "speed": 9.146216453465131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48813,
+          35.273498,
+          2068.67
+        ]
+      },
+      "properties": {
+        "pressure": 795.4,
+        "hum": 23.9,
+        "temp": 14.0,
+        "dew_point": -6.3300525151432625,
+        "dT": 500.0,
+        "distance": 3.3797861543165277,
+        "bearing": 53.68672286046058,
+        "speed": 6.7595723086330555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48817,
+          35.273472,
+          2056.17
+        ]
+      },
+      "properties": {
+        "pressure": 796.3,
+        "hum": 23.9,
+        "temp": 14.1,
+        "dew_point": -6.2452481456210105,
+        "dT": 500.0,
+        "distance": 4.641542083319188,
+        "bearing": 51.47411268579356,
+        "speed": 9.283084166638377
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4882,
+          35.273455,
+          2047.8
+        ]
+      },
+      "properties": {
+        "pressure": 797.4,
+        "hum": 23.9,
+        "temp": 14.1,
+        "dew_point": -6.2452481456210105,
+        "dT": 500.0,
+        "distance": 3.3151487905318255,
+        "bearing": 55.23548301816578,
+        "speed": 6.630297581063651
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48824,
+          35.273428,
+          2035.19
+        ]
+      },
+      "properties": {
+        "pressure": 798.4,
+        "hum": 23.9,
+        "temp": 14.2,
+        "dew_point": -6.160448994753608,
+        "dT": 500.0,
+        "distance": 4.7116064768116335,
+        "bearing": 50.41621055939396,
+        "speed": 9.423212953623267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48826,
+          35.273411,
+          2026.8
+        ]
+      },
+      "properties": {
+        "pressure": 799.4,
+        "hum": 23.8,
+        "temp": 14.2,
+        "dew_point": -6.215360054779049,
+        "dT": 501.0,
+        "distance": 2.6210114396370368,
+        "bearing": 43.845078642121905,
+        "speed": 5.231559759754565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4883,
+          35.273385,
+          2014.35
+        ]
+      },
+      "properties": {
+        "pressure": 800.5,
+        "hum": 23.8,
+        "temp": 14.3,
+        "dew_point": -6.130605436732359,
+        "dT": 500.0,
+        "distance": 4.641545133122291,
+        "bearing": 51.47414265170704,
+        "speed": 9.283090266244582
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48832,
+          35.273369,
+          2006.02
+        ]
+      },
+      "properties": {
+        "pressure": 801.5,
+        "hum": 23.6,
+        "temp": 14.3,
+        "dew_point": -6.241125026039234,
+        "dT": 500.0,
+        "distance": 2.5419838980049043,
+        "bearing": 45.58150825672067,
+        "speed": 5.083967796009809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48835,
+          35.273345,
+          1993.53
+        ]
+      },
+      "properties": {
+        "pressure": 802.4,
+        "hum": 23.6,
+        "temp": 14.2,
+        "dew_point": -6.325800599633238,
+        "dT": 500.0,
+        "distance": 3.8129763281156297,
+        "bearing": 45.581512463185334,
+        "speed": 7.625952656231259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48837,
+          35.273329,
+          1985.17
+        ]
+      },
+      "properties": {
+        "pressure": 803.2,
+        "hum": 23.5,
+        "temp": 14.3,
+        "dew_point": -6.296697559388413,
+        "dT": 500.0,
+        "distance": 2.541984538877696,
+        "bearing": 45.58152239494831,
+        "speed": 5.083969077755392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4884,
+          35.273306,
+          1972.69
+        ]
+      },
+      "properties": {
+        "pressure": 804.3,
+        "hum": 23.4,
+        "temp": 14.4,
+        "dew_point": -6.267890139720631,
+        "dT": 500.0,
+        "distance": 3.7359969281546737,
+        "bearing": 46.799624701445225,
+        "speed": 7.471993856309347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48842,
+          35.273291,
+          1964.36
+        ]
+      },
+      "properties": {
+        "pressure": 805.3,
+        "hum": 23.3,
+        "temp": 14.5,
+        "dew_point": -6.239380512784414,
+        "dT": 500.0,
+        "distance": 2.4654400955596505,
+        "bearing": 47.427557963602965,
+        "speed": 4.930880191119301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48845,
+          35.273269,
+          1951.95
+        ]
+      },
+      "properties": {
+        "pressure": 806.2,
+        "hum": 23.3,
+        "temp": 14.3,
+        "dew_point": -6.4084765545349685,
+        "dT": 500.0,
+        "distance": 3.6607766783822955,
+        "bearing": 48.06838831377746,
+        "speed": 7.321553356764591
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48847,
+          35.273254,
+          1943.67
+        ]
+      },
+      "properties": {
+        "pressure": 807.3,
+        "hum": 23.2,
+        "temp": 14.5,
+        "dew_point": -6.295670772103405,
+        "dT": 500.0,
+        "distance": 2.4654407058204635,
+        "bearing": 47.42757102059289,
+        "speed": 4.930881411640927
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48849,
+          35.273232,
+          1931.16
+        ]
+      },
+      "properties": {
+        "pressure": 808.4,
+        "hum": 23.2,
+        "temp": 14.6,
+        "dew_point": -6.211170876755495,
+        "dT": 500.0,
+        "distance": 3.046433343578063,
+        "bearing": 36.58237429716195,
+        "speed": 6.092866687156126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48851,
+          35.273218,
+          1922.89
+        ]
+      },
+      "properties": {
+        "pressure": 809.3,
+        "hum": 23.1,
+        "temp": 14.8,
+        "dew_point": -6.098814520377804,
+        "dT": 500.0,
+        "distance": 2.3916178218956357,
+        "bearing": 49.389715001454874,
+        "speed": 4.783235643791271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48853,
+          35.273197,
+          1910.4
+        ]
+      },
+      "properties": {
+        "pressure": 810.4,
+        "hum": 23.1,
+        "temp": 14.7,
+        "dew_point": -6.183263456261581,
+        "dT": 500.0,
+        "distance": 2.95788667810389,
+        "bearing": 37.86617262280896,
+        "speed": 5.91577335620778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48854,
+          35.273183,
+          1902.0
+        ]
+      },
+      "properties": {
+        "pressure": 811.5,
+        "hum": 23.1,
+        "temp": 14.8,
+        "dew_point": -6.098814520377804,
+        "dT": 500.0,
+        "distance": 1.80208586995092,
+        "bearing": 30.248531938421877,
+        "speed": 3.60417173990184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48856,
+          35.273162,
+          1889.14
+        ]
+      },
+      "properties": {
+        "pressure": 812.2,
+        "hum": 23.1,
+        "temp": 15.0,
+        "dew_point": -5.9299325758015,
+        "dT": 500.0,
+        "distance": 2.957887160204835,
+        "bearing": 37.86618461099357,
+        "speed": 5.91577432040967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48858,
+          35.273148,
+          1880.5
+        ]
+      },
+      "properties": {
+        "pressure": 813.3,
+        "hum": 23.1,
+        "temp": 15.0,
+        "dew_point": -5.9299325758015,
+        "dT": 500.0,
+        "distance": 2.391619013012416,
+        "bearing": 49.38973946176003,
+        "speed": 4.783238026024832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4886,
+          35.273127,
+          1867.71
+        ]
+      },
+      "properties": {
+        "pressure": 814.4,
+        "hum": 23.2,
+        "temp": 15.0,
+        "dew_point": -5.873224274105633,
+        "dT": 500.0,
+        "distance": 2.957887640630313,
+        "bearing": 37.866196611779,
+        "speed": 5.915775281260627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48861,
+          35.273113,
+          1859.25
+        ]
+      },
+      "properties": {
+        "pressure": 815.4,
+        "hum": 23.3,
+        "temp": 15.1,
+        "dew_point": -5.732219260649784,
+        "dT": 500.0,
+        "distance": 1.8020862657561043,
+        "bearing": 30.248553485002958,
+        "speed": 3.6041725315122086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48863,
+          35.273091,
+          1846.61
+        ]
+      },
+      "properties": {
+        "pressure": 816.3,
+        "hum": 23.5,
+        "temp": 15.1,
+        "dew_point": -5.619800305703988,
+        "dT": 500.0,
+        "distance": 3.0464352265524632,
+        "bearing": 36.58242203512617,
+        "speed": 6.0928704531049265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48864,
+          35.273076,
+          1838.19
+        ]
+      },
+      "properties": {
+        "pressure": 817.4,
+        "hum": 23.8,
+        "temp": 15.1,
+        "dew_point": -5.452756707837878,
+        "dT": 500.0,
+        "distance": 1.8989683238449526,
+        "bearing": 28.558240633425385,
+        "speed": 3.7979366476899052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48865,
+          35.273053,
+          1825.64
+        ]
+      },
+      "properties": {
+        "pressure": 818.5,
+        "hum": 24.1,
+        "temp": 15.1,
+        "dew_point": -5.287574750647891,
+        "dT": 500.0,
+        "distance": 2.713822366696544,
+        "bearing": 19.54284969330803,
+        "speed": 5.427644733393088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48866,
+          35.273037,
+          1817.3
+        ]
+      },
+      "properties": {
+        "pressure": 819.5,
+        "hum": 24.3,
+        "temp": 15.1,
+        "dew_point": -5.1784660483451646,
+        "dT": 500.0,
+        "distance": 1.99734201723215,
+        "bearing": 27.03321064221433,
+        "speed": 3.9946840344643
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48868,
+          35.273013,
+          1804.87
+        ]
+      },
+      "properties": {
+        "pressure": 820.5,
+        "hum": 24.6,
+        "temp": 15.1,
+        "dew_point": -5.0162904935474035,
+        "dT": 500.0,
+        "distance": 3.2277376825167545,
+        "bearing": 34.22906603791046,
+        "speed": 6.455475365033509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48869,
+          35.272996,
+          1796.56
+        ]
+      },
+      "properties": {
+        "pressure": 821.4,
+        "hum": 24.8,
+        "temp": 15.2,
+        "dew_point": -4.82405162824971,
+        "dT": 500.0,
+        "distance": 2.0969974358262973,
+        "bearing": 25.652226181700996,
+        "speed": 4.1939948716525945
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4887,
+          35.272971,
+          1784.08
+        ]
+      },
+      "properties": {
+        "pressure": 822.4,
+        "hum": 25.1,
+        "temp": 15.2,
+        "dew_point": -4.664654231275839,
+        "dT": 500.0,
+        "distance": 2.9243473479575215,
+        "bearing": 18.085170598306718,
+        "speed": 5.848694695915043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48871,
+          35.272953,
+          1775.74
+        ]
+      },
+      "properties": {
+        "pressure": 823.4,
+        "hum": 25.4,
+        "temp": 15.3,
+        "dew_point": -4.421623704734343,
+        "dT": 500.0,
+        "distance": 2.197760228869201,
+        "bearing": 24.397198251709938,
+        "speed": 4.395520457738402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48873,
+          35.272926,
+          1763.23
+        ]
+      },
+      "properties": {
+        "pressure": 824.5,
+        "hum": 25.7,
+        "temp": 15.2,
+        "dew_point": -4.350874550546971,
+        "dT": 500.0,
+        "distance": 3.508566258375248,
+        "bearing": 31.16338070522113,
+        "speed": 7.017132516750496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48874,
+          35.272906,
+          1754.83
+        ]
+      },
+      "properties": {
+        "pressure": 825.5,
+        "hum": 26.0,
+        "temp": 15.3,
+        "dew_point": -4.110878851811626,
+        "dT": 500.0,
+        "distance": 2.402048844035408,
+        "bearing": 22.205541413585024,
+        "speed": 4.804097688070816
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48875,
+          35.272876,
+          1742.15
+        ]
+      },
+      "properties": {
+        "pressure": 826.5,
+        "hum": 26.3,
+        "temp": 15.1,
+        "dew_point": -4.1291920253101555,
+        "dT": 500.0,
+        "distance": 3.45716574820319,
+        "bearing": 15.223630692967618,
+        "speed": 6.91433149640638
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48876,
+          35.272855,
+          1733.7
+        ]
+      },
+      "properties": {
+        "pressure": 827.6,
+        "hum": 26.7,
+        "temp": 15.3,
+        "dew_point": -3.7562955412707866,
+        "dT": 500.0,
+        "distance": 2.505349568398882,
+        "bearing": 21.2444471038998,
+        "speed": 5.010699136797764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48878,
+          35.272824,
+          1721.2
+        ]
+      },
+      "properties": {
+        "pressure": 828.7,
+        "hum": 27.0,
+        "temp": 15.3,
+        "dew_point": -3.606853773385036,
+        "dT": 500.0,
+        "distance": 3.8959678693092274,
+        "bearing": 27.776535249638414,
+        "speed": 7.791935738618455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48879,
+          35.272802,
+          1712.8
+        ]
+      },
+      "properties": {
+        "pressure": 829.6,
+        "hum": 27.1,
+        "temp": 15.5,
+        "dew_point": -3.3855093396536624,
+        "dT": 500.0,
+        "distance": 2.609299317765755,
+        "bearing": 20.35969693909908,
+        "speed": 5.21859863553151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48881,
+          35.272769,
+          1700.08
+        ]
+      },
+      "properties": {
+        "pressure": 829.7,
+        "hum": 27.2,
+        "temp": 15.5,
+        "dew_point": -3.336114176924835,
+        "dT": 500.0,
+        "distance": 4.094044691878145,
+        "bearing": 26.325975553156525,
+        "speed": 8.18808938375629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48881,
+          35.272747,
+          1691.68
+        ]
+      },
+      "properties": {
+        "pressure": 829.7,
+        "hum": 27.2,
+        "temp": 15.6,
+        "dew_point": -3.250156944943638,
+        "dT": 500.0,
+        "distance": 2.4462883852430783,
+        "bearing": 0.0,
+        "speed": 4.892576770486157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48883,
+          35.272713,
+          1679.15
+        ]
+      },
+      "properties": {
+        "pressure": 832.8,
+        "hum": 27.8,
+        "temp": 15.7,
+        "dew_point": -2.870755496777146,
+        "dT": 500.0,
+        "distance": 4.193997536839682,
+        "bearing": 25.652299089785515,
+        "speed": 8.387995073679363
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48884,
+          35.27269,
+          1670.57
+        ]
+      },
+      "properties": {
+        "pressure": 833.7,
+        "hum": 27.9,
+        "temp": 15.6,
+        "dew_point": -2.9085924889581745,
+        "dT": 500.0,
+        "distance": 2.7138237282174966,
+        "bearing": 19.54293062243852,
+        "speed": 5.427647456434993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48885,
+          35.272656,
+          1657.39
+        ]
+      },
+      "properties": {
+        "pressure": 834.7,
+        "hum": 28.1,
+        "temp": 15.6,
+        "dew_point": -2.8124005239404544,
+        "dT": 500.0,
+        "distance": 3.8880924944915014,
+        "bearing": 13.502312596610295,
+        "speed": 7.776184988983003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48885,
+          35.272633,
+          1648.46
+        ]
+      },
+      "properties": {
+        "pressure": 835.9,
+        "hum": 28.3,
+        "temp": 15.7,
+        "dew_point": -2.630479265741598,
+        "dT": 500.0,
+        "distance": 2.5574833130346253,
+        "bearing": 0.0,
+        "speed": 5.114966626069251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48887,
+          35.272599,
+          1635.15
+        ]
+      },
+      "properties": {
+        "pressure": 837.1,
+        "hum": 28.5,
+        "temp": 15.5,
+        "dew_point": -2.7082345417678972,
+        "dT": 500.0,
+        "distance": 4.193998643010117,
+        "bearing": 25.652330558896608,
+        "speed": 8.387997286020234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48887,
+          35.272577,
+          1626.25
+        ]
+      },
+      "properties": {
+        "pressure": 838.1,
+        "hum": 28.7,
+        "temp": 15.5,
+        "dew_point": -2.6139041515134385,
+        "dT": 500.0,
+        "distance": 2.4462883859504014,
+        "bearing": 0.0,
+        "speed": 4.892576771900803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48888,
+          35.272544,
+          1612.89
+        ]
+      },
+      "properties": {
+        "pressure": 839.2,
+        "hum": 28.9,
+        "temp": 15.5,
+        "dew_point": -2.520155530201269,
+        "dT": 500.0,
+        "distance": 3.7800604027016904,
+        "bearing": 13.89585460802249,
+        "speed": 7.560120805403381
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48889,
+          35.272522,
+          1604.05
+        ]
+      },
+      "properties": {
+        "pressure": 840.4,
+        "hum": 29.1,
+        "temp": 15.5,
+        "dew_point": -2.4269810725650194,
+        "dT": 500.0,
+        "distance": 2.6093004096468833,
+        "bearing": 20.359761591822064,
+        "speed": 5.2186008192937665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4889,
+          35.272491,
+          1590.96
+        ]
+      },
+      "properties": {
+        "pressure": 841.4,
+        "hum": 29.2,
+        "temp": 15.6,
+        "dew_point": -2.2939628129626817,
+        "dT": 500.0,
+        "distance": 3.564579337259975,
+        "bearing": 14.754368140633005,
+        "speed": 7.12915867451995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4889,
+          35.272472,
+          1582.1
+        ]
+      },
+      "properties": {
+        "pressure": 842.6,
+        "hum": 29.4,
+        "temp": 15.5,
+        "dew_point": -2.2882796770916354,
+        "dT": 500.0,
+        "distance": 2.112703606819699,
+        "bearing": 0.0,
+        "speed": 4.225407213639398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48891,
+          35.272442,
+          1568.72
+        ]
+      },
+      "properties": {
+        "pressure": 843.5,
+        "hum": 29.5,
+        "temp": 15.6,
+        "dew_point": -2.155581354232952,
+        "dT": 500.0,
+        "distance": 3.457167025997899,
+        "bearing": 15.223708510041376,
+        "speed": 6.914334051995798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48892,
+          35.272423,
+          1559.78
+        ]
+      },
+      "properties": {
+        "pressure": 844.7,
+        "hum": 29.6,
+        "temp": 15.6,
+        "dew_point": -2.1097316941409963,
+        "dT": 500.0,
+        "distance": 2.299486970733577,
+        "bearing": 23.252825444153416,
+        "speed": 4.598973941467154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48893,
+          35.272395,
+          1546.32
+        ]
+      },
+      "properties": {
+        "pressure": 845.7,
+        "hum": 29.7,
+        "temp": 15.8,
+        "dew_point": -1.890413917453722,
+        "dT": 500.0,
+        "distance": 3.243107253645381,
+        "bearing": 16.255470063509165,
+        "speed": 6.486214507290762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48893,
+          35.272377,
+          1537.52
+        ]
+      },
+      "properties": {
+        "pressure": 846.8,
+        "hum": 29.8,
+        "temp": 15.8,
+        "dew_point": -1.8447722199597802,
+        "dT": 500.0,
+        "distance": 2.0015086804427984,
+        "bearing": 0.0,
+        "speed": 4.003017360885597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48894,
+          35.27235,
+          1524.54
+        ]
+      },
+      "properties": {
+        "pressure": 848.0,
+        "hum": 29.9,
+        "temp": 15.8,
+        "dew_point": -1.7992662327913118,
+        "dT": 500.0,
+        "distance": 3.1365121459959733,
+        "bearing": 16.824073743431256,
+        "speed": 6.2730242919919466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48895,
+          35.272333,
+          1516.01
+        ]
+      },
+      "properties": {
+        "pressure": 849.1,
+        "hum": 30.0,
+        "temp": 15.9,
+        "dew_point": -1.6670009623377953,
+        "dT": 500.0,
+        "distance": 2.0970006540910555,
+        "bearing": 25.652409248293395,
+        "speed": 4.194001308182111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48896,
+          35.272308,
+          1503.33
+        ]
+      },
+      "properties": {
+        "pressure": 850.2,
+        "hum": 30.0,
+        "temp": 16.1,
+        "dew_point": -1.4932263513084785,
+        "dT": 500.0,
+        "distance": 2.924349653871507,
+        "bearing": 18.085308988971974,
+        "speed": 5.848699307743014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48897,
+          35.272291,
+          1494.92
+        ]
+      },
+      "properties": {
+        "pressure": 851.2,
+        "hum": 30.1,
+        "temp": 16.0,
+        "dew_point": -1.5348090536913939,
+        "dT": 501.0,
+        "distance": 2.097000856858269,
+        "bearing": 25.652420771842003,
+        "speed": 4.1856304528109165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48898,
+          35.272267,
+          1482.22
+        ]
+      },
+      "properties": {
+        "pressure": 852.3,
+        "hum": 30.1,
+        "temp": 16.1,
+        "dew_point": -1.4478914131613123,
+        "dT": 499.0,
+        "distance": 2.8188597826703234,
+        "bearing": 18.78695507361647,
+        "speed": 5.649017600541731
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48898,
+          35.272252,
+          1473.77
+        ]
+      },
+      "properties": {
+        "pressure": 853.4,
+        "hum": 30.1,
+        "temp": 16.1,
+        "dew_point": -1.4478914131613123,
+        "dT": 500.0,
+        "distance": 1.66792389989745,
+        "bearing": 0.0,
+        "speed": 3.3358477997949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48899,
+          35.272231,
+          1461.28
+        ]
+      },
+      "properties": {
+        "pressure": 854.3,
+        "hum": 30.2,
+        "temp": 16.2,
+        "dew_point": -1.3157442742014243,
+        "dT": 500.0,
+        "distance": 2.5053521015281834,
+        "bearing": 21.24459611848897,
+        "speed": 5.010704203056367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.489,
+          35.272217,
+          1452.97
+        ]
+      },
+      "properties": {
+        "pressure": 855.3,
+        "hum": 30.2,
+        "temp": 16.1,
+        "dew_point": -1.402689903867231,
+        "dT": 500.0,
+        "distance": 1.8020913247562331,
+        "bearing": 30.2488293518893,
+        "speed": 3.6041826495124663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48901,
+          35.272198,
+          1440.46
+        ]
+      },
+      "properties": {
+        "pressure": 856.4,
+        "hum": 30.3,
+        "temp": 16.1,
+        "dew_point": -1.3576209876990097,
+        "dT": 500.0,
+        "distance": 2.2994879662192456,
+        "bearing": 23.252883173231623,
+        "speed": 4.598975932438491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48901,
+          35.272185,
+          1432.13
+        ]
+      },
+      "properties": {
+        "pressure": 857.5,
+        "hum": 30.4,
+        "temp": 16.1,
+        "dew_point": -1.3126838369087812,
+        "dT": 500.0,
+        "distance": 1.4455340464363253,
+        "bearing": 0.0,
+        "speed": 2.8910680928726507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48902,
+          35.272166,
+          1419.69
+        ]
+      },
+      "properties": {
+        "pressure": 858.4,
+        "hum": 30.5,
+        "temp": 16.1,
+        "dew_point": -1.2678776316258595,
+        "dT": 500.0,
+        "distance": 2.299488108449038,
+        "bearing": 23.25289137610673,
+        "speed": 4.598976216898076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48902,
+          35.272153,
+          1411.47
+        ]
+      },
+      "properties": {
+        "pressure": 859.5,
+        "hum": 30.6,
+        "temp": 16.1,
+        "dew_point": -1.2232015597561727,
+        "dT": 500.0,
+        "distance": 1.4455340457290022,
+        "bearing": 0.0,
+        "speed": 2.8910680914580045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48903,
+          35.272134,
+          1399.08
+        ]
+      },
+      "properties": {
+        "pressure": 860.6,
+        "hum": 30.8,
+        "temp": 15.9,
+        "dew_point": -1.3085279465531197,
+        "dT": 500.0,
+        "distance": 2.299488250290951,
+        "bearing": 23.25289964924866,
+        "speed": 4.598976500581902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48903,
+          35.272122,
+          1390.9
+        ]
+      },
+      "properties": {
+        "pressure": 861.6,
+        "hum": 31.0,
+        "temp": 16.0,
+        "dew_point": -1.1329897938197522,
+        "dT": 501.0,
+        "distance": 1.3343391200594246,
+        "bearing": 0.0,
+        "speed": 2.66335153704476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48903,
+          35.272102,
+          1378.57
+        ]
+      },
+      "properties": {
+        "pressure": 862.7,
+        "hum": 31.1,
+        "temp": 15.8,
+        "dew_point": -1.2634753388220572,
+        "dT": 500.0,
+        "distance": 2.2238985331966,
+        "bearing": 0.0,
+        "speed": 4.4477970663932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48903,
+          35.272088,
+          1370.36
+        ]
+      },
+      "properties": {
+        "pressure": 863.6,
+        "hum": 31.3,
+        "temp": 16.0,
+        "dew_point": -1.001348283179557,
+        "dT": 500.0,
+        "distance": 1.556728972813226,
+        "bearing": 0.0,
+        "speed": 3.113457945626452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48903,
+          35.272067,
+          1357.99
+        ]
+      },
+      "properties": {
+        "pressure": 864.7,
+        "hum": 31.5,
+        "temp": 15.9,
+        "dew_point": -1.001577057801749,
+        "dT": 500.0,
+        "distance": 2.3350934595735007,
+        "bearing": 0.0,
+        "speed": 4.670186919147001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48902,
+          35.272052,
+          1349.74
+        ]
+      },
+      "properties": {
+        "pressure": 865.8,
+        "hum": 31.8,
+        "temp": 15.7,
+        "dew_point": -1.0468148001337225,
+        "dT": 500.0,
+        "distance": 1.898973809358799,
+        "bearing": 331.44145523682266,
+        "speed": 3.797947618717598
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48902,
+          35.272032,
+          1337.4
+        ]
+      },
+      "properties": {
+        "pressure": 866.8,
+        "hum": 32.1,
+        "temp": 15.6,
+        "dew_point": -1.0059488725287857,
+        "dT": 500.0,
+        "distance": 2.2238985331966,
+        "bearing": 0.0,
+        "speed": 4.4477970663932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48901,
+          35.272019,
+          1329.2
+        ]
+      },
+      "properties": {
+        "pressure": 867.9,
+        "hum": 32.4,
+        "temp": 15.6,
+        "dew_point": -0.878666267493334,
+        "dT": 500.0,
+        "distance": 1.7069565788766627,
+        "bearing": 327.8705614824563,
+        "speed": 3.4139131577533255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.489,
+          35.272001,
+          1316.85
+        ]
+      },
+      "properties": {
+        "pressure": 869.0,
+        "hum": 32.7,
+        "temp": 15.5,
+        "dew_point": -0.8401816443922904,
+        "dT": 500.0,
+        "distance": 2.1977646348905586,
+        "bearing": 335.6025485017061,
+        "speed": 4.395529269781117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.489,
+          35.27199,
+          1308.58
+        ]
+      },
+      "properties": {
+        "pressure": 869.9,
+        "hum": 32.9,
+        "temp": 15.3,
+        "dew_point": -0.9322984057501729,
+        "dT": 500.0,
+        "distance": 1.2231441936825238,
+        "bearing": 0.0,
+        "speed": 2.4462883873650476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48899,
+          35.271974,
+          1295.93
+        ]
+      },
+      "properties": {
+        "pressure": 870.9,
+        "hum": 33.2,
+        "temp": 15.2,
+        "dew_point": -0.8959432708792018,
+        "dT": 500.0,
+        "distance": 1.9973474334925647,
+        "bearing": 332.96648490405477,
+        "speed": 3.9946948669851294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48898,
+          35.271965,
+          1287.37
+        ]
+      },
+      "properties": {
+        "pressure": 872.1,
+        "hum": 33.6,
+        "temp": 15.2,
+        "dew_point": -0.731901829696034,
+        "dT": 500.0,
+        "distance": 1.351163376606241,
+        "bearing": 317.7877762906204,
+        "speed": 2.702326753212482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48897,
+          35.271953,
+          1274.4
+        ]
+      },
+      "properties": {
+        "pressure": 873.3,
+        "hum": 33.8,
+        "temp": 15.1,
+        "dew_point": -0.7386326295471322,
+        "dT": 500.0,
+        "distance": 1.6138755607239417,
+        "bearing": 325.77058040195107,
+        "speed": 3.2277511214478833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48896,
+          35.271946,
+          1265.75
+        ]
+      },
+      "properties": {
+        "pressure": 874.3,
+        "hum": 34.1,
+        "temp": 15.0,
+        "dew_point": -0.7056548495327842,
+        "dT": 500.0,
+        "distance": 1.195819762559114,
+        "bearing": 310.60983638196564,
+        "speed": 2.391639525118228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48896,
+          35.271938,
+          1252.75
+        ]
+      },
+      "properties": {
+        "pressure": 875.7,
+        "hum": 34.4,
+        "temp": 15.0,
+        "dew_point": -0.5855109365666923,
+        "dT": 500.0,
+        "distance": 0.8895594131371753,
+        "bearing": 0.0,
+        "speed": 1.7791188262743507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48895,
+          35.271933,
+          1244.24
+        ]
+      },
+      "properties": {
+        "pressure": 876.6,
+        "hum": 34.6,
+        "temp": 15.0,
+        "dew_point": -0.5059301515827379,
+        "dT": 500.0,
+        "distance": 1.0645382599576523,
+        "bearing": 301.48453373396586,
+        "speed": 2.1290765199153046
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48894,
+          35.271928,
+          1231.66
+        ]
+      },
+      "properties": {
+        "pressure": 877.6,
+        "hum": 34.8,
+        "temp": 15.0,
+        "dew_point": -0.4267562403378711,
+        "dT": 500.0,
+        "distance": 1.0645383093429184,
+        "bearing": 301.48453204523963,
+        "speed": 2.1290766186858368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48894,
+          35.271925,
+          1223.34
+        ]
+      },
+      "properties": {
+        "pressure": 878.7,
+        "hum": 35.1,
+        "temp": 14.8,
+        "dew_point": -0.48572988126259964,
+        "dT": 500.0,
+        "distance": 0.33358477983802537,
+        "bearing": 0.0,
+        "speed": 0.6671695596760507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48893,
+          35.271921,
+          1210.8
+        ]
+      },
+      "properties": {
+        "pressure": 879.9,
+        "hum": 35.4,
+        "temp": 14.7,
+        "dew_point": -0.45736604083376375,
+        "dT": 500.0,
+        "distance": 1.0109219357939003,
+        "bearing": 296.10224655065304,
+        "speed": 2.0218438715878007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48892,
+          35.271918,
+          1202.26
+        ]
+      },
+      "properties": {
+        "pressure": 880.9,
+        "hum": 35.7,
+        "temp": 14.7,
+        "dew_point": -0.34138036474517597,
+        "dT": 500.0,
+        "distance": 0.9671675371627243,
+        "bearing": 290.1762432300479,
+        "speed": 1.9343350743254486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48891,
+          35.271915,
+          1189.4
+        ]
+      },
+      "properties": {
+        "pressure": 882.1,
+        "hum": 36.1,
+        "temp": 14.7,
+        "dew_point": -0.1880698225925068,
+        "dT": 500.0,
+        "distance": 0.9671675687201031,
+        "bearing": 290.17624256275707,
+        "speed": 1.9343351374402062
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4889,
+          35.271912,
+          1180.84
+        ]
+      },
+      "properties": {
+        "pressure": 883.3,
+        "hum": 36.4,
+        "temp": 14.6,
+        "dew_point": -0.1629384358871919,
+        "dT": 500.0,
+        "distance": 0.967167602445629,
+        "bearing": 290.17624182860345,
+        "speed": 1.934335204891258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48889,
+          35.271909,
+          1168.25
+        ]
+      },
+      "properties": {
+        "pressure": 884.4,
+        "hum": 36.8,
+        "temp": 14.5,
+        "dew_point": -0.1013210695349972,
+        "dT": 500.0,
+        "distance": 0.9671676318348543,
+        "bearing": 290.17624118884464,
+        "speed": 1.9343352636697086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48888,
+          35.271907,
+          1159.72
+        ]
+      },
+      "properties": {
+        "pressure": 885.6,
+        "hum": 37.2,
+        "temp": 14.1,
+        "dew_point": -0.30867418153366966,
+        "dT": 500.0,
+        "distance": 0.9346612889326434,
+        "bearing": 283.76477430077597,
+        "speed": 1.8693225778652869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48886,
+          35.271905,
+          1146.76
+        ]
+      },
+      "properties": {
+        "pressure": 886.6,
+        "hum": 37.7,
+        "temp": 13.7,
+        "dew_point": -0.48189335124801846,
+        "dT": 500.0,
+        "distance": 1.8292061950735656,
+        "bearing": 276.98314450172455,
+        "speed": 3.6584123901471313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48885,
+          35.271906,
+          1138.05
+        ]
+      },
+      "properties": {
+        "pressure": 887.7,
+        "hum": 38.2,
+        "temp": 13.4,
+        "dew_point": -0.5689849403308557,
+        "dT": 500.0,
+        "distance": 0.914603105434382,
+        "bearing": 263.01686418608256,
+        "speed": 1.829206210868764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48883,
+          35.271908,
+          1125.05
+        ]
+      },
+      "properties": {
+        "pressure": 888.9,
+        "hum": 38.7,
+        "temp": 13.2,
+        "dew_point": -0.5694476323426687,
+        "dT": 500.0,
+        "distance": 1.8292061752049495,
+        "bearing": 263.0168669507568,
+        "speed": 3.6584123504098995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48882,
+          35.271912,
+          1116.33
+        ]
+      },
+      "properties": {
+        "pressure": 890.1,
+        "hum": 39.2,
+        "temp": 13.3,
+        "dew_point": -0.3034603021746349,
+        "dT": 500.0,
+        "distance": 1.0109220642383114,
+        "bearing": 243.8977628405304,
+        "speed": 2.021844128476623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4888,
+          35.271919,
+          1103.31
+        ]
+      },
+      "properties": {
+        "pressure": 891.3,
+        "hum": 39.6,
+        "temp": 13.1,
+        "dew_point": -0.34328304503514273,
+        "dT": 500.0,
+        "distance": 1.9754464218256733,
+        "bearing": 246.79516661399077,
+        "speed": 3.9508928436513466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48879,
+          35.271926,
+          1094.67
+        ]
+      },
+      "properties": {
+        "pressure": 892.2,
+        "hum": 39.9,
+        "temp": 13.1,
+        "dew_point": -0.23946021796837,
+        "dT": 500.0,
+        "distance": 1.195819993562069,
+        "bearing": 229.39017891798744,
+        "speed": 2.391639987124138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48877,
+          35.271937,
+          1081.91
+        ]
+      },
+      "properties": {
+        "pressure": 893.4,
+        "hum": 40.3,
+        "temp": 13.1,
+        "dew_point": -0.10210117492483861,
+        "dT": 500.0,
+        "distance": 2.189204809636458,
+        "bearing": 236.03294491201444,
+        "speed": 4.378409619272916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48876,
+          35.271945,
+          1073.39
+        ]
+      },
+      "properties": {
+        "pressure": 894.6,
+        "hum": 40.6,
+        "temp": 13.1,
+        "dew_point": 0.0001271140457410244,
+        "dT": 500.0,
+        "distance": 1.2710034444583764,
+        "bearing": 225.58202472497646,
+        "speed": 2.542006888916753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48875,
+          35.271959,
+          1060.67
+        ]
+      },
+      "properties": {
+        "pressure": 895.6,
+        "hum": 40.9,
+        "temp": 13.0,
+        "dew_point": 0.011577989200818374,
+        "dT": 500.0,
+        "distance": 1.8020928609535332,
+        "bearing": 210.24891882656368,
+        "speed": 3.6041857219070663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48874,
+          35.271969,
+          1052.34
+        ]
+      },
+      "properties": {
+        "pressure": 896.8,
+        "hum": 41.1,
+        "temp": 13.1,
+        "dew_point": 0.16902886843740872,
+        "dT": 500.0,
+        "distance": 1.4354666502753057,
+        "bearing": 219.2288991949508,
+        "speed": 2.8709333005506115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48872,
+          35.271985,
+          1040.08
+        ]
+      },
+      "properties": {
+        "pressure": 898.0,
+        "hum": 41.4,
+        "temp": 13.0,
+        "dew_point": 0.17926330752417,
+        "dT": 500.0,
+        "distance": 2.542006310941938,
+        "bearing": 225.58201483155378,
+        "speed": 5.084012621883877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48872,
+          35.271995,
+          1031.86
+        ]
+      },
+      "properties": {
+        "pressure": 898.9,
+        "hum": 41.5,
+        "temp": 13.0,
+        "dew_point": 0.21258478317547547,
+        "dT": 500.0,
+        "distance": 1.1119492658909769,
+        "bearing": 180.0,
+        "speed": 2.2238985317819537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4887,
+          35.272011,
+          1019.26
+        ]
+      },
+      "properties": {
+        "pressure": 900.1,
+        "hum": 41.7,
+        "temp": 13.0,
+        "dew_point": 0.27901476481273246,
+        "dT": 500.0,
+        "distance": 2.542005895202052,
+        "bearing": 225.58200563847893,
+        "speed": 5.084011790404104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4887,
+          35.272021,
+          1010.82
+        ]
+      },
+      "properties": {
+        "pressure": 901.2,
+        "hum": 41.9,
+        "temp": 13.1,
+        "dew_point": 0.4355204252615433,
+        "dT": 500.0,
+        "distance": 1.1119492665983,
+        "bearing": 180.0,
+        "speed": 2.2238985331966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48869,
+          35.272035,
+          998.13
+        ]
+      },
+      "properties": {
+        "pressure": 902.4,
+        "hum": 42.0,
+        "temp": 13.0,
+        "dew_point": 0.3781321290874115,
+        "dT": 500.0,
+        "distance": 1.802092430118669,
+        "bearing": 210.2488953818729,
+        "speed": 3.604184860237338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48868,
+          35.272045,
+          989.63
+        ]
+      },
+      "properties": {
+        "pressure": 903.6,
+        "hum": 42.2,
+        "temp": 13.1,
+        "dew_point": 0.5342931349538547,
+        "dT": 500.0,
+        "distance": 1.4354661121784993,
+        "bearing": 219.2288728251477,
+        "speed": 2.8709322243569986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48867,
+          35.272058,
+          976.88
+        ]
+      },
+      "properties": {
+        "pressure": 904.7,
+        "hum": 42.3,
+        "temp": 13.1,
+        "dew_point": 0.567079099331629,
+        "dT": 500.0,
+        "distance": 1.706956425140387,
+        "bearing": 212.1294360644835,
+        "speed": 3.413912850280774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48866,
+          35.272067,
+          968.36
+        ]
+      },
+      "properties": {
+        "pressure": 905.9,
+        "hum": 42.5,
+        "temp": 13.2,
+        "dew_point": 0.7229457227536266,
+        "dT": 500.0,
+        "distance": 1.3511626779017691,
+        "bearing": 222.2121968152422,
+        "speed": 2.7023253558035383
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48866,
+          35.27208,
+          955.52
+        ]
+      },
+      "properties": {
+        "pressure": 907.1,
+        "hum": 42.7,
+        "temp": 13.1,
+        "dew_point": 0.697539801818367,
+        "dT": 500.0,
+        "distance": 1.4455340464363253,
+        "bearing": 180.0,
+        "speed": 2.8910680928726507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48865,
+          35.272088,
+          946.94
+        ]
+      },
+      "properties": {
+        "pressure": 908.2,
+        "hum": 42.8,
+        "temp": 13.1,
+        "dew_point": 0.7299857037994615,
+        "dT": 500.0,
+        "distance": 1.2710022981619873,
+        "bearing": 225.5819740673625,
+        "speed": 2.5420045963239746
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48865,
+          35.272101,
+          933.9
+        ]
+      },
+      "properties": {
+        "pressure": 909.1,
+        "hum": 42.9,
+        "temp": 13.2,
+        "dew_point": 0.8529612933536879,
+        "dT": 500.0,
+        "distance": 1.4455340464363253,
+        "bearing": 180.0,
+        "speed": 2.8910680928726507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48864,
+          35.272109,
+          925.42
+        ]
+      },
+      "properties": {
+        "pressure": 910.3,
+        "hum": 43.0,
+        "temp": 13.3,
+        "dew_point": 0.9759147095428885,
+        "dT": 500.0,
+        "distance": 1.2710021300667838,
+        "bearing": 225.5819666421566,
+        "speed": 2.5420042601335675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48864,
+          35.272122,
+          912.88
+        ]
+      },
+      "properties": {
+        "pressure": 911.6,
+        "hum": 43.2,
+        "temp": 13.3,
+        "dew_point": 1.0404352124089153,
+        "dT": 500.0,
+        "distance": 1.4455340464363253,
+        "bearing": 180.0,
+        "speed": 2.8910680928726507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48864,
+          35.27213,
+          904.42
+        ]
+      },
+      "properties": {
+        "pressure": 912.6,
+        "hum": 43.3,
+        "temp": 13.3,
+        "dew_point": 1.0725962727004157,
+        "dT": 500.0,
+        "distance": 0.8895594131371753,
+        "bearing": 180.0,
+        "speed": 1.7791188262743507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48864,
+          35.272142,
+          891.71
+        ]
+      },
+      "properties": {
+        "pressure": 913.8,
+        "hum": 43.4,
+        "temp": 13.4,
+        "dew_point": 1.1954012952022148,
+        "dT": 500.0,
+        "distance": 1.3343391200594246,
+        "bearing": 180.0,
+        "speed": 2.668678240118849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48864,
+          35.272151,
+          883.17
+        ]
+      },
+      "properties": {
+        "pressure": 915.1,
+        "hum": 43.5,
+        "temp": 13.3,
+        "dew_point": 1.1367214531793939,
+        "dT": 500.0,
+        "distance": 1.000754339514076,
+        "bearing": 180.0,
+        "speed": 2.001508679028152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48864,
+          35.272162,
+          870.28
+        ]
+      },
+      "properties": {
+        "pressure": 916.2,
+        "hum": 43.5,
+        "temp": 13.3,
+        "dew_point": 1.1367214531793939,
+        "dT": 500.0,
+        "distance": 1.2231441929752007,
+        "bearing": 180.0,
+        "speed": 2.4462883859504014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48864,
+          35.272169,
+          861.67
+        ]
+      },
+      "properties": {
+        "pressure": 917.5,
+        "hum": 43.6,
+        "temp": 13.3,
+        "dew_point": 1.1686861444800787,
+        "dT": 500.0,
+        "distance": 0.7783644860529515,
+        "bearing": 180.0,
+        "speed": 1.556728972105903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48864,
+          35.272179,
+          848.75
+        ]
+      },
+      "properties": {
+        "pressure": 918.7,
+        "hum": 43.6,
+        "temp": 13.3,
+        "dew_point": 1.1686861444800787,
+        "dT": 500.0,
+        "distance": 1.111949267305623,
+        "bearing": 180.0,
+        "speed": 2.223898534611246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48865,
+          35.272185,
+          840.13
+        ]
+      },
+      "properties": {
+        "pressure": 919.6,
+        "hum": 43.7,
+        "temp": 13.4,
+        "dew_point": 1.2913669363858018,
+        "dT": 500.0,
+        "distance": 1.1266073494029085,
+        "bearing": 126.31281836489802,
+        "speed": 2.253214698805817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.48865,
+          35.272193,
+          827.15
+        ]
+      },
+      "properties": {
+        "pressure": 920.6,
+        "hum": 43.7,
+        "temp": 13.3,
+        "dew_point": 1.2005859474046086,
+        "dT": 500.0,
+        "distance": 0.8895594131371753,
+        "bearing": 180.0,
+        "speed": 1.7791188262743507
+      }
+    }
+  ]
+}
